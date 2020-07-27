@@ -35,7 +35,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := rolex
 PRODUCT_NAME := omni_rolex
-PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := Xiaomi redmi 4a
-PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := Xiaomi redmi 4a
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Xiaomi Redmi 4a
+PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_RELEASE_NAME := Xiaomi Redmi 4a
